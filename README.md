@@ -1,9 +1,5 @@
-# ██████╗ ██████╗ ███████╗███╗   ███╗ █████╗ ██████╗ ██╗     ███████╗
-#██╔════╝██╔═══██╗██╔════╝████╗ ████║██╔══██╗██╔══██╗██║     ██╔════╝
-#██║     ██║   ██║█████╗  ██╔████╔██║███████║██████╔╝██║     █████╗  
-#██║     ██║   ██║██╔══╝  ██║╚██╔╝██║██╔══██║██╔══██╗██║     ██╔══╝  
-#╚██████╗╚██████╔╝███████╗██║ ╚═╝ ██║██║  ██║██████╔╝███████╗███████╗
-# ╚═════╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bbbda7ea-f983-45fb-86b2-0868a4b10f70" />
+
 
 # 🛡️ CyberGRC Hub
 
@@ -157,6 +153,39 @@ When I sit across from Toyota's GRC team, I won't be asking "what does this butt
 | **Stakeholder Communication** | Documentation | Technical and executive-facing documentation, ROI analysis, dashboard visualizations | ✅ Complete |
 
 ---
+
+<img width="1598" height="614" alt="image" src="https://github.com/user-attachments/assets/a6eef7c4-689f-499b-90f0-53680668804a" />
+
+
+<img width="1601" height="545" alt="image" src="https://github.com/user-attachments/assets/367cc633-87f2-4868-b2f4-033debdb2cbb" />
+
+
+
+<img width="1612" height="554" alt="image" src="https://github.com/user-attachments/assets/40ebb916-3784-42b6-9ffc-5e3e28f19725" />
+
+
+
+<img width="1606" height="629" alt="image" src="https://github.com/user-attachments/assets/6e3e5273-d73b-40bc-bef8-88ab0ac781ee" />
+
+
+
+<img width="1608" height="686" alt="image" src="https://github.com/user-attachments/assets/569d86cf-8e1e-43fc-bcef-179565285dd3" />
+
+
+
+<img width="1611" height="641" alt="image" src="https://github.com/user-attachments/assets/d9469c56-2843-4765-a43a-95a1e743f55a" />
+
+
+
+<img width="1597" height="744" alt="image" src="https://github.com/user-attachments/assets/af3988e2-a76a-4482-bf99-45ecd804a5d7" />
+
+
+
+<img width="1612" height="701" alt="image" src="https://github.com/user-attachments/assets/452abd63-62c8-47a0-8b17-138189fa69fc" />
+
+
+
+
 
 ## 🔧 MODULE DEEP DIVES
 
