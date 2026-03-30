@@ -565,7 +565,7 @@ This project demonstrates:
 > **Built with ❤️ and a deep respect for the teams who keep enterprise systems secure**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/cybergrchub/cybergrc-hub?style=social)](https://github.com/cybergrchub/cybergrc-hub/stargazers)
+[![Stars](https://img.shields.io/github/stars/cybergrchub/cybergrc-hub?style=social)](https://github.com/anandsundar/cybergrc-hub/stargazers)
 
 ⭐ **Star this repo if it helped you understand enterprise GRC workflows**
 
