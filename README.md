@@ -54,9 +54,8 @@ When I sit across from Toyota's GRC team, I won't be asking "what does this butt
 
 ---
 
-## 🚀 LIVE DEMO + ARCHITECTURE
+## 🚀 ARCHITECTURE
 
-![Demo](docs/demo.gif)
 
 ![Architecture](docs/architecture.png)
 
